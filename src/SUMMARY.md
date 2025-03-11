@@ -11,6 +11,7 @@
   - [Assignments](ch02/ch02-04.md)
   - [Type Declarations](ch02/ch02-05.md)
   - [Packages and Files](ch02/ch02-06.md)
+  - [Scope](ch02/ch02-07.md)
 - [Basic Data Types]()
   - [Integers]()
   - [Floating-Point Numbers]()
